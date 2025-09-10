@@ -17,8 +17,8 @@
 ### 📊Estatisticas
 <div>
   <a href="https://github.com/danmachado3105">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danmachado3105&show_icons=true&theme=radical&locale=pt-br">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danmachado3105&layout=compact&theme=radical&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danmachado3105&show_icons=true&theme=radical&locale=pt-br&count_private=true&cache_seconds=1800">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danmachado3105&layout=compact&theme=radical&locale=pt-br&count_private=true&cache_seconds=1800">
 </div>
 
 ### 🌐Linguagens e Tecnologias

@@ -1,8 +1,8 @@
 ## 👩🏻‍💻 Danilo Machado
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor Front-End`**
 
-- 📫 Estudando JAVA
+- 📫 Estudando Front-End
 - ⚡ Gosto de Tecnologia e estou começando minha jornada como dev
 - 💻 Técnico em Desenvolvimento de Sistemas.
 
@@ -23,8 +23,10 @@
 
 ### 🌐Linguagens e Tecnologias
 <div style="display: inline_block"><br>
-  <img align="center" alt="Danilo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Danilo-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Danilo-Html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Danilo-Css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Danilo-VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Danilo-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  <img align="center" alt="Danilo-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Danilo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>

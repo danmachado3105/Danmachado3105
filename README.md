@@ -5,6 +5,7 @@
 - 📫 Estudando Front-End
 - ⚡ Gosto de Tecnologia e estou começando minha jornada como dev
 - 💻 Técnico em Desenvolvimento de Sistemas.
+- 🎂 18 anos - 2007
 
 <div>
   <a href="https://www.linkedin.com/in/danilomachado3105" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -1,10 +1,9 @@
-## 👩🏻‍💻 Danilo Machado
+## Olá 
 
 **`Desenvolvedor Front-End`**
 
-- 📫 Estudando Front-End
-- ⚡ Gosto de Tecnologia e estou começando minha jornada como dev
-- 💻 Técnico em Desenvolvimento de Sistemas.
+- 🎓 Técnico em Desenvolvimento de Sistemas.
+- 💻 Desenvolvedor Front-end em evolução
 - 🎂 18 anos - 2007
 
 <div>

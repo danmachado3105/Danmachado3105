@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Danilo Machado
+## 👩🏻‍💻  Danilo Machado
 
 **`Desenvolvedor Front-End`**
 

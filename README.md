@@ -5,6 +5,7 @@
 - 💻 Desenvolvedor Front-End em formação
 - 📚 Estudante de Engenharia de Software
 - 🎓 Técnico em Desenvolvimento de Sistemas.
+- 🎯 Objetivo: conquistar minha primeira oportunidade de estágio como desenvolvedor front-end.
 - 📍 18 anos | Rio de Janeiro - RJ
 
 ---

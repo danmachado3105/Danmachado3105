@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 
 - 💻 Desenvolvedor Front-End em formação
-- 📚 Estudante de Engenharia de Software
+- 📚 Estudante de Engenharia de Software 1/8
 - 🎓 Técnico em Desenvolvimento de Sistemas.
 - 📍 18 anos | Rio de Janeiro - RJ
 

@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <h1 align="center">👨‍💻 Danilo Machado</h1>
 <p align="center"><code>Desenvolvedor de Software | Graduando em Engenharia de Software</code></p>
 
@@ -44,14 +46,10 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danmachado3105&theme=transparent&layout=compact&bg_color=00000000&title_color=008000" width="48%" alt="Top Langs"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danmachado3105&theme=transparent&ring=00ff00&fire=00ff00&currStreakLabel=008000" width="48%" alt="Streak"/>
 </p>
+<br>
 
 ---
 
-<!-- Cobrinha de contribuições -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danmachado3105/danmachado3105/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danmachado3105/danmachado3105/output/github-contribution-grid-snake.svg">
-    <img alt="Animação da cobra de contribuições do GitHub" src="https://raw.githubusercontent.com/danmachado3105/danmachado3105/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danmachado3105&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

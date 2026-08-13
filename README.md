@@ -30,7 +30,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 ## 🤖 Linguagens e Tecnologia
 <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Danilo-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-   <img align="center" alt="Danilo-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Danilo-Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Danilo-Html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Danilo-Css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">

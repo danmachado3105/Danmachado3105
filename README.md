@@ -3,7 +3,7 @@
 <h1 align="center">👨‍💻 Danilo Machado</h1>
 <p align="center"><code>Desenvolvedor de Software | Graduando em Engenharia de Software</code></p>
 
-Sou **Danilo Machado**, tenho 18 anos e moro no Rio de Janeiro (RJ).  
+Sou **Danilo Machado**, tenho 18 anos e moro no Rio de Janeiro, RJ.  
 Atualmente curso **Engenharia de Software** na **Veiga de Almeida (UVA)**, com formação técnica em **desenvolvimento de sistemas**
 
 Tenho grande interesse em **programação, desenvolvimento web e soluções digitais**, buscando aplicar meus conhecimentos em projetos práticos e desafiadores.  

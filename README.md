@@ -43,7 +43,8 @@ Meu objetivo √© evoluir continuamente como desenvolvedor e contribuir para solu√
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danmachado3105&theme=transparent&layout=compact&bg_color=00000000&title_color=008000" width="48%" alt="Top Langs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danmachado3105&theme=transparent&ring=00ff00&fire=00ff00&currStreakLabel=008000" width="48%" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=danmachado3105&theme=transparent&ring=00ff00&fire=00ff00&currStreakLabel=008000" width="48%" alt="Streak"/>
+
 </p>
 <br>
 

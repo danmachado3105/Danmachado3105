@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007A29&height=120&section=header"/>
 
 <h1 align="center">👨‍💻 Danilo Machado</h1>
 <p align="center"><code>Desenvolvedor de Software | Graduando em Engenharia de Software</code></p>
@@ -20,7 +20,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 **Projetos, formação e contato reunidos em um só lugar**
 
 <a href="https://danmachado3105.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Acessar_Portfólio-4ade80?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Acessar_Portfólio-4ade80?style=for-the-badge&color=00AE3A&logoColor=white&height=80" />
 </a>
 
 </div>
@@ -43,4 +43,4 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 </p>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007A29&height=120&section=footer"/>

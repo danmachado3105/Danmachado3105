@@ -38,14 +38,9 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danmachado3105&theme=transparent&layout=compact&bg_color=00000000&title_color=008000" width="48%" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=danmachado3105&theme=transparent&ring=00ff00&fire=00ff00&currStreakLabel=008000" width="48%" alt="Streak"/>
-
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/?username=danmachado3105&theme=dark&layout=compact&show_icons=true&title_color=00ff00&bg_color=#161616" width="48%" alt="Top Langs"/>
+  <img src="https://streak-stats.demolab.com?user=danmachado3105&theme=dark&ring=00ff00&fire=00ff00&currStreakLabel=008000" width="48%" alt="Streak"/>
 </p>
-<br>
 
----
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danmachado3105&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

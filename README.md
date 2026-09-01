@@ -11,7 +11,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Conecte-se Comigo
 
 <div align="center">
 

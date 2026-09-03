@@ -29,7 +29,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ## 🤖 Linguagens e Tecnologia
 <div style="display: inline_block" align="center"><br>
-   <img align="center" src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github&theme=dark" />
+   <img align="center" src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 </div>
 
 

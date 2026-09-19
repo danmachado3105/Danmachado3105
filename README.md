@@ -3,7 +3,7 @@
 <h1 align="center">👨‍💻 Danilo Machado</h1>
 <p align="center"><code>Desenvolvedor de Software | Graduando em Engenharia de Software</code></p>
 
-Sou **Danilo Machado**, tenho 18 anos e moro no Rio de Janeiro, RJ.  
+Sou **Danilo Machado**, tenho 19 anos e moro no Rio de Janeiro, RJ.  
 Atualmente curso **Engenharia de Software** na **Veiga de Almeida (UVA)**, com formação técnica em **Desenvolvimento de Sistemas.**
 
 Tenho grande interesse em **programação, desenvolvimento web e soluções digitais**, buscando aplicar meus conhecimentos em projetos práticos e desafiadores.  
@@ -31,7 +31,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 <div style="display: inline_block" align="center"><br>
    <img align="center" src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 </div>
-
 
 ---
 

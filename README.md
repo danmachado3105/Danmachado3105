@@ -1,7 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1450c9&height=120&section=header"/>
 
-<h1 align="center">👨‍💻 Danilo Machado</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Danilo+Machado" alt="Typing" />
+
+</div>
+
 <p align="center"><code>Desenvolvedor de Software | Graduando em Engenharia de Software</code></p>
+
+---
+
+## 🧭 Quem sou Eu
 
 Sou **Danilo Machado**, tenho 19 anos e moro no Rio de Janeiro, RJ.  
 Atualmente curso **Engenharia de Software** na **Veiga de Almeida (UVA)**, com formação técnica em **Desenvolvimento de Sistemas.**
@@ -45,5 +54,16 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 |:-:|:-:|
 
 </div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=63B3ED&center=true&vCenter=true&width=580&lines=%22+Construindo%2C+o+futuro.+%22;%22+Linha%2C+por+linha.+%22">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=580&lines=%22+Construindo%2C+o+futuro.+%22;%22+Linha%2C+por+linha.+%22" alt="Quote" />
+</picture>
+
+<sub>— Danilo Machado</sub>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1450c9&height=120&section=footer"/>

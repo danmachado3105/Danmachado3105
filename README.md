@@ -34,12 +34,16 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do Github
 
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/?username=danmachado3105&theme=dark&layout=compact&show_icons=true&icon_color=3b8eff&title_color=1450c9&bg_color=#161616" width="48%" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=danmachado3105&theme=dark&ring=1450c9&fire=1450c9&title_color=1450c9&currStreakLabel=1450c9" width="48%" alt="Streak"/>
-</p>
+<div align="center">
 
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danmachado3105&theme=github_dark) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danmachado3105&theme=github_dark) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danmachado3105&theme=github_dark) |
+|:-:|:-:|:-:|
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danmachado3105&theme=github_dark) | ![Streak](https://streak-stats.demolab.com?user=danmachado3105&theme=github_dark&hide_border=false) |
+|:-:|:-:|
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1450c9&height=120&section=footer"/>

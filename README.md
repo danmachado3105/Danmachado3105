@@ -34,11 +34,24 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 </div>
 
+<div align="center">
+
+### 🔗 Redes Profissionais e Contato
+
+**Buscando novas oportunidades e conexões no ecossistema de tecnologia.**
+  
+<p>
+  <a href="www.linkedin.com/in/danilomachado3105"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
+  <a href="mailto:danilomachado1227@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" /></a>
+</p>
+
+</div>
+
 ---
 
 ## ⚙️ Linguagens e Tecnologia
 <div style="display: inline_block" align="center"><br>
-   <img align="center" src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
+   <img align="center" src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode&theme=dark" />
 </div>
 
 ---

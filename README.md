@@ -10,7 +10,7 @@
 
 ---
 
-## 🧭 Quem sou Eu
+## 🧭 Quem sou eu
 
 Sou **Danilo Machado**, tenho 19 anos e moro no Rio de Janeiro, RJ.  
 Atualmente curso **Engenharia de Software** na **Veiga de Almeida (UVA)**, com formação técnica em **Desenvolvimento de Sistemas.**

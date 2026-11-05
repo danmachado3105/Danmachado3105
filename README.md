@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:18F58A,100:006DFC"/>
 
 <div align="center">
 
@@ -79,4 +79,4 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir para solu�
 
 <sub>— Danilo Machado</sub>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:18F58A,100:006DFC"/>
